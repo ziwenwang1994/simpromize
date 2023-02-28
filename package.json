@@ -1,0 +1,14 @@
+{
+  "name": "promize",
+  "version": "1.0.0",
+  "description": "promise simple implementation",
+  "main": "promise.js",
+  "scripts": {
+    "test": "promises-aplus-tests promise.js"
+  },
+  "author": "ziwenw",
+  "license": "MIT",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
